@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Capstone</string>
+    <string name="google_maps_api_key"></string>
+    <!-- Search Screen -->
+    <string name="search_placeholder">Search...</string>
+    <string name="no_movies_found">No movies found</string>
+
+    <!-- Home Screen -->
+    <string name="popular">Popular</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="upcoming">Upcoming</string>
+
+
+    <!-- Movie Details Screen -->
+    <string name="movie_details_title">Movie Details</string>
+    <string name="rating">Rating: %1$s</string>
+    <string name="overview">Overview</string>
+    <string name="available_on">Available on:</string>
+    <string name="nearby_cinemas">Nearby Cinemas</string>
+
+    <!-- Favorite Icon -->
+    <string name="toggle_favorite">Toggle Favorite</string>
+
+    <!-- Navigation -->
+    <string name="go_back">Go Back</string>
+
+
+</resources>
